@@ -1,0 +1,14 @@
+{
+  "contracts": ["app/contracts/**"],
+  "app": {
+    "css/app.css": ["app/css/**"],
+    "js/app.js": ["embark.js", "app/js/**"],
+    "index.html": "app/index.html"
+  },
+  "buildDir": "dist/",
+  "config": "config/",
+  "plugins": {},
+  "versions":{
+    "web3.js":"1.0.0-beta"
+    }
+}

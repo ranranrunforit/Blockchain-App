@@ -1,0 +1,22 @@
+{
+  "name": "app_name",
+  "version": "0.0.1",
+  "description": "",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "",
+  "devDependencies": {
+    "embark": "^2.3.1",
+    "mocha": "^2.2.5"
+  },
+  "dependencies": {
+    "gruntfile": "^0.1.0",
+    "pubsub-js": "^1.6.0",
+    "truffle-contract": "^3.0.6",
+    "yarn-install": "^1.0.0"
+  }
+}
